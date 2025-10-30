@@ -1,4 +1,4 @@
-![CollabRoom Use Case Diagram](images\use-case.png)
+![CollabRoom Use Case Diagram](images/use-case.png)
 
 # Глоссарий
 
